@@ -1,6 +1,6 @@
-# SketchARify
+# ArtMorph
 
-SketchARify is an innovative Android app that transforms your photos into sketches and brings them to life using Augmented Reality (AR). Whether you're an artist, designer, or just looking for a fun way to interact with your photos, SketchARify makes it easy and exciting!
+ArtMorph is an innovative Android app that transforms your photos into sketches and brings them to life using Augmented Reality (AR). Whether you're an artist, designer, or just looking for a fun way to interact with your photos, ArtMorph makes it easy and exciting!
 
 ## Features
 
@@ -46,9 +46,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For support or inquiries, please contact us:
 
-- Email: support@sketcharify.com
-- Website: [SketchARify Official Site](#)
+- Website: [ArtMorph Official Site](#)
 
 ---
 
-Bring your photos to life with SketchARify today!
+Bring your photos to life with ArtMorph today!
